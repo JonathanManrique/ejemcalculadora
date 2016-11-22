@@ -1,0 +1,194 @@
+body{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+
+h1{
+
+    font-family: cursive;
+	color:white;
+	font-size: 3vw;
+	height: 3vw;
+
+
+}
+
+#todo{
+
+	background: #0101DF ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+
+}
+
+#todo1{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+
+}
+#todo2{
+	background:#0101DF  ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+
+}
+#todo3{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+
+}
+#todo4{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+}
+#todo5{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+}
+#todo6{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+}
+#todo7{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+}
+#todo8{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+}
+#todo9{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+
+}
+#todo10{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+
+}
+#todo11{
+	background:#0101DF  ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+
+}
+#todo12{
+	background:#0101DF  ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+
+}
+#todo13{
+	background:#0101DF   ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+}
+#todo14{
+	background:#0101DF  ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+}
+
+#todo15{
+	background:#0101DF ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	text-align: center;
+
+}
+
+#todo16{
+	background:#0101DF  ;
+	width: 6vw;
+	height: 5vw;
+	color: white;
+	font-size: 4vw;
+	font-family: cursive;
+	text-align: center;
+}
+
+
+#inicio{
+	width: 32vw;
+	height: 3.5vw;
+	background-color: white;
+	font-size: 3.5vw;
+	text-align: center;
+}
+
+
+.tabla{
+	display: flex;
+	justify-content: center;
+ 	
+}
+
+#marco{
+	display: flex;
+	flex-content: center;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuJeAJN7RhZmARehfOdVZ5lKVTkpoKGoY7kb8_AnaLDwPLi0SnRg"); 
+	width: 45%;
+	height: 45%;
+
+}
